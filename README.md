@@ -6,11 +6,11 @@
 
 ### Sobre a Comunidade
 
-A **Platform Engineering** é uma comunidade brasileira com mais de **1.800 membros**, unida pelo propósito de fortalecer a engenharia de software e a cultura de plataforma no país. Promovemos eventos, conteúdo técnico, troca de experiências e networking entre profissionais apaixonados por tecnologia.
+Comunidade brasileira com mais de **1.900 pessoas**, unida pelo propósito de fortalecer a engenharia de software e a cultura de plataforma no país. Promovemos eventos, conteúdo técnico, troca de experiências e networking entre profissionais apaixonados por tecnologia.
 
 ---
 
-### 🌱 Grupos Temáticos
+### Grupos
 
 Abaixo você encontra os principais grupos da nossa comunidade. Cada um aborda um tema específico da engenharia de software. Participe!
 
