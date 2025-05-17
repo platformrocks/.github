@@ -2,12 +2,6 @@
 
 ## Comunidade Platform Engineering
 
-**Impulsionando a Engenharia de Plataforma no Brasil.**
-
-### Sobre a Comunidade
-
-Comunidade brasileira com mais de **2.500 pessoas**, unida pelo propósito de fortalecer a engenharia de software e a cultura de plataforma no país. Promovemos eventos, conteúdo técnico, troca de experiências e networking entre profissionais apaixonados por tecnologia.
-
 ---
 
 ## Software Engineering
