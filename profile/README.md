@@ -1,6 +1,6 @@
 # Platform Rocks
 
-## Comunidade Platform Engineering
+## Comunidades
 
 ## Software Engineering
 - [Principal](https://go.platform.rocks/c/software-engineering/principal)
