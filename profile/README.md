@@ -2,8 +2,6 @@
 
 ## Comunidade Platform Engineering
 
----
-
 ## Software Engineering
 - [Principal](https://go.platform.rocks/c/software-engineering/principal)
 - [Backend](https://go.platform.rocks/c/software-engineering/backend)
@@ -47,9 +45,6 @@
 - [Product Marketing](https://go.platform.rocks/c/product-management/product-marketing)
 - [Random](https://go.platform.rocks/c/product-management/random)
 
-
----
-
 ### 📬 Fique por Dentro
 
 - 🌐 [Site oficial](https://platform.rocks)
@@ -57,7 +52,4 @@
 - 📺 [YouTube](https://plat.fm/youtube)  
 - 📷 [Instagram](https://plat.fm/instagram)
 
----
-
-> “Construindo uma comunidade de excelência em tecnologia no Brasil.”
 
